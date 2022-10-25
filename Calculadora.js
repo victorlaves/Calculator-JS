@@ -15,3 +15,8 @@ function Subtraction(){
     var sub = number1 - number2
     return sub}
 
+function multiplication(){
+    var mult = number1 * number2
+    return mult}
+
+
