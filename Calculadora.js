@@ -11,5 +11,7 @@ function Sum() {
     var sum = number1 + number2
     return sum}
 
-
+function Subtraction(){
+    var sub = number1 - number2
+    return sub}
 
