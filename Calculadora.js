@@ -19,4 +19,7 @@ function multiplication(){
     var mult = number1 * number2
     return mult}
 
+function division(){
+    var div = number1 / number2
+    return div}
 
